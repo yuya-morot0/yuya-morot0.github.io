@@ -41,10 +41,15 @@ _IEEE Open Journal of Signal Processing (IEEE OJSP)_, vol. 5, pp. 177-185, 2024.
 _土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-413, 2023.<br>
 [paper]
 
-1. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama.<br>
-“Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations,” Sensors, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) [paper]
+1. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
+“**Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations**”<br>
+_Sensors_, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) <br>
+[paper]
 
-6. <u><b>諸戸 祐哉</b></u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀: “テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類,” 土木学会 AI・データサイエンス論文集, vol. 3, no. J2, pp. 293-306, 2022.  [paper]
+1. <u><b>諸戸 祐哉</b></u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀.<br>
+“**テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類**”<br>
+_土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-306, 2022.<br>
+[paper]
   
 7. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama: “Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity,” IEEE Access, vol. 8, pp. 203358-203368, 2020. (2020IF 3.745)  [paper]
 
