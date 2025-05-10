@@ -18,8 +18,9 @@ My research interests in machine learning and its applications, especially in co
 - Apr. 2012 - Mar. 2015 Yokkaichi High School
 
 # Research Experience
-- Apr. 2024 - Present Researcher at Hitachi, Ltd.
-- Apr. 2021 - Mar.
+- Apr. 2024 - Present   Researcher at Hitachi, Ltd.
+- Apr. 2021 - Mar. 2023 MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE), Super Research Assistant [link]
+- Feb. 2023 - Mar. 2023 
 
 # Teaching Experience 
 Aug. 2016 - Sep. 2016 Mitsubishi Chemical Holdings Group Intern
