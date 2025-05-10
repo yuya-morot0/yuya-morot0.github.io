@@ -14,7 +14,7 @@ My research interests in machine learning and its applications, especially in co
 ## Education
 - Apr. 2021 - Mar. 2024  
   Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
-- Apr. 2019 - Mar. 2021  
+- Apr. 2019 - Mar. 2021   
   M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
 - Apr. 2015 - Mar. 2019  
   B.S., School of Engineering, Hokkaido Univ., Japan
@@ -47,9 +47,8 @@ My research interests in machine learning and its applications, especially in co
 - Hokkai-Gakuen University, Faculty of Engineering, “Project Practicum” (Academic years 2021, 2022, 2023)
 
 ### Teaching Assistant / Teaching Fellow
-- Hokkaido University, “Do Robots Have Emotions?” (Spring 2019; Spring 2020; Spring 2021)
-- Hokkaido University, “Media Network Experiments IA & IIA” (Spring & Fall 2019; Spring & Fall 2020; Spring & Fall 2021; Spring & Fall 2022; Spring & Fall 2023)
-
-Hokkaido University, Faculty of Engineering, Specialized Course “Media Network Practicum II” (Spring & Fall 2019; Spring & Fall 2020; Spring & Fall 2021; Spring & Fall 2022; Spring & Fall 2023)
+- Hokkaido University, “Do Robots Have Emotions?” (2019; 2020; 2021)
+- Hokkaido University, “Media Network Experiments IA & IIA” ( 2019; 2020; 2021; 2022; 2023)
+- Hokkaido University, “Media Network Practicum II” (Spring & Fall 2019; Spring & Fall 2020; Spring & Fall 2021; Spring & Fall 2022; Spring & Fall 2023)
 
 Hokkaido Consortium of National Universities, Joint General Education Course (Spring & Fall 2019; Spring & Fall 2020; Spring 2021; Spring 2022)
