@@ -44,31 +44,30 @@ redirect_from:
 - 北海道大学 工学部専門科目「メディアネットワーク演習 II」（2019前期・後期, 2020前期・後期, 2021前期・後期, 2022前期・後期, 2023前期・後期）
 - 北海道地区国立大学教養教育連携授業 (2019前期・後期, 2020前期・後期, 2021前期, 2022前期)
 
-## Awards
-1. The 2023 IEEE Sapporo Section Encouragement Award (Feb. 2024)
-1. IWAIT 2024 Best Paper Award (Jan. 2024, with Goka et al., as co-author)
-1. Intelligence, Informatics and Infrastructure Award for Outstanding Potential Paper (Dec. 2023)
-1. IEEE ICCE-TW 2023 Best Paper Award Honorable Mention (Jul. 2023, with Goka et al., as co-author)
-1. Young Researcher Excellent Paper Presentation Award, FY2022 Joint Conference of Electrical and Information Societies, Hokkaido Section (Dec. 2022, with Goka et al., as co-author)
-1. The 2021 IEEE Sapporo Section Student Paper Contest Best Presentation Award (Feb. 2022, with Ye et al., as co-author)
-1. The 2021 IEEE Sapporo Section Encouragement Award (Feb. 2022)
-1. IEICE Hokkaido Section Student Encouragement Award (Mar. 2021)
-1. IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (March 2021)
-1. Young Researcher Excellent Paper Presentation Award, FY2020 Joint Conference of Electrical and Information Societies, Hokkaido Section (Nov. 2020)
-1. The 2019 IEEE Sapporo Section Student Paper Contest Encouraging Prize (Feb. 2020)
-1. 2nd Prize, IEEE LifeTech 2019 Excellent Paper Award (Mar. 2019)
-1. IEEE GCCE 2018 Outstanding Paper Award (Oct. 2018)
+## 受賞
+1. The 2023 IEEE Sapporo Section Encouragement Award (2024年2月)
+1. IWAIT2024 Best Paper Award (2024年1月)   
+  五箇ほか，共著者として受賞
+1. AI・データサイエンス奨励賞 Intelligence, Informatics and Infrastructure Award for Outstanding Potential Paper (2023年12月)
+1. IEEE ICCE-TW 2023 Best Paper Award Honorable Mention (2023年7月)  
+  五箇ほか, 共著者として受賞
+1. 令和4年度 電気・情報関係学会北海道支部連合大会 若手優秀論文発表賞 (2022年12月)   
+  五箇ほか, 共著者として受賞
+1. The 2021 IEEE Sapporo Section Student Paper Contest Best Presentation Award (2022年2月)     
+  叶ほか, 共著者として受賞
+1. The 2021 IEEE Sapporo Section Encouragement Award (2022年2月)
+1. 電子情報通信学会北海道支部 学生奨励賞 (2021年3月)
+1. IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (2021年3月)
+1. 令和2年度 電気・情報関係学会北海道支部連合大会 若手優秀論文発表賞 (2020年11月)
+1. The 2019 IEEE Sapporo Section Student Paper Contest Encouraging Prize (2020年2月)
+1. 2nd Prize IEEE LifeTech 2019 Excellent Paper Award (2019年3月)
+1. IEEE GCCE 2018 Outstanding Paper Award (2018年10月)
 
-## Competitive Funding / Scholarships
-- Apr. 2023 – Mar. 2024  
-  Sky Oura ICT Scholarship Foundation (1,000,000JPY)
-- Apr. 2022 – Mar. 2023  
-  JEES–Mitsubishi Corporation Science and Technology Student Scholarship (1,300,000JPY)
-- Apr. 2020 – Mar. 2022  
-  Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (1,920,000JPY)
-- Apr. 2021 – Mar. 2024  
-  JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
-(acceptance rate: about 20%, total funding 7,200,000JPY)
-- Apr. 2019 - Mar. 2021
-  Scholarship of Japan Student Services Organization (JASSO)  
-  Full repayment exemption for outstanding performance (2,112,000JPY)
+## 競争的資金/奨学金
+- 2023.4-2024.3 Sky大浦ICT奨学財団 奨学生 (1,000,000JPY)
+- 2022.4-2023.3 JEES・三菱商事科学技術学生奨学金 奨学生 (1,300,000JPY)
+- 2020.4-2022.3 似鳥国際奨学財団　北海道みらいIT人材奨学金 奨学生 (1,920,000JPY)
+- 2021.4-2024.3 日本学術振興会 特別研究員DC1 (採択率20%, 7,200,000JPY) [link]
+- 2019.4-2021.3 日本学生支援機構 第一種奨学金 特に優れた業績による奨学金返還全学免除 (2,112,000JPY)
+
+## 
