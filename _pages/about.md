@@ -24,14 +24,31 @@ My research interests in machine learning and its applications, especially in co
 ## Research Experience
 - Apr. 2024 - Present  
   Researcher at Hitachi, Ltd.
+- Apr. 2021 – Mar. 2024
+  JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023
-  Research Intern at Hitachi, Ltd.
-  - Research theme: 
+  Research Intern at Hitachi, Ltd (as part of the MEXT Job-Type Research Internship program)
+  - Research topic: AI technologies for recognizing human activities and environments from video
 - Apr. 2021 - Mar. 2023
   MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE), Super Research Assistant [link]
-
 - Feb. 2023 - Mar. 2023
-  Research Intern at 
+  Research Intern at Sony Group Corporation
+  - Research topic: Evaluation and learning of intervention strategies under cost constraints
+- Sep. 2021 – Jul. 2022
+  Research Intern at CyberAgent AI Lab
+  - Research topic: Novel digital signage advertising using pedestrian state-recognition models
+- Aug. 2016 – Sep. 2016
+  Research Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
+  - First participant in the Keizai Doyukai Internship Program
+  - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
+
+
+
+
+
+
+
+
 
 # Teaching Experience 
 Aug. 2016 - Sep. 2016 Mitsubishi Chemical Holdings Group Intern
