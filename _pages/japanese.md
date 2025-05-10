@@ -1,46 +1,35 @@
 ---
-permalink: /
-title: "Yuya Moroto"
+permalink: /japanese
+title: "諸戸　祐哉"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /japanese/
+  - /japanese.html
 ---
 
 ## Biography
-I am a researcher at Hitachi, Ltd.  
-My research interests in machine learning and its applications, especially in computer vision and affective computing. Fron the technical perspective, I am interested in the multimodal anaylysis using multimedia contents and biological signals, and then apply techniques from various fields such as deep learning, probabilistic generative model, tensor analysis etc.
+株式会社日立製作所　研究員  
+機械学習とその応用、特にコンピュータビジョンと感性コンピューティングに関する研究に従事。
+技術的観点では、マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を使用。
 
-## Education
-- Apr. 2021 - Mar. 2024  
-  Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
-- Apr. 2019 - Mar. 2021   
-  M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
-- Apr. 2015 - Mar. 2019  
-  B.S., School of Engineering, Hokkaido Univ., Japan
-- Apr. 2012 - Mar. 2015  
-  Yokkaichi High School
+## 学歴
+- 2012年4月-2015年3月 三重県立四日市高等学校
+- 2015年4月-2019年3月 北海道大学 工学部
+- 2019年4月-2021年3月 北海道大学大学院情報科学院 修士課程
+- 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程
 
-## Research Experience
-- Apr. 2024 - Present  
-  Researcher at Hitachi, Ltd.
-- Apr. 2021 – Mar. 2024  
-  JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
-- Dec. 2022 - Apr. 2023  
-  Research Intern at Hitachi, Ltd (as part of the MEXT Job-Type Research Internship program)
-  - Research topic: AI technologies for recognizing human activities and environments from video
-- Apr. 2021 - Mar. 2023  
-  MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE), Super Research Assistant
-- Feb. 2023 - Mar. 2023  
-  Research Intern at Sony Group Corporation
-  - Research topic: Evaluation and learning of intervention strategies under cost constraints
-- Sep. 2021 – Jul. 2022  
-  Research Intern at CyberAgent AI Lab
-  - Research topic: Novel digital signage advertising using pedestrian state-recognition models
-- Aug. 2016 – Sep. 2016  
-  Research Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
-  - First participant in the Keizai Doyukai Internship Program
-  - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
+## 研究開発経験
+- 2016年8月-2016年9月 三菱樹脂株式会社（現：三菱ケミカル株式会社）インターン   
+  - 経済同友会インターンシッププログラム1期生として参加  
+  - 研究テーマ：実験ならびにCAE解析を用いた、流動下での混合過程評価と装置の最適化検討
+- 2021年4月-2024年3月 日本学術振興会 特別研究員DC1
+- 2021年9月-10月 CyberAgent AI Lab リサーチインターン
+研究テーマ：通行人の状態認識モデルを用いた新しいサイネージ広告の研究開発
+2022年12月-2023年4月 株式会社日立製作所 リサーチインターン（文部科学省 ジョブ型研究インターンシップとして  [link]）
+研究テーマ：映像を用いた人作業や環境を認識する人工知能技術の研究
+2023年2月-2023年3月 ソニーグループ株式会社 リサーチインターン
+研究テーマ：コスト制約下での介入方策の評価や学習
+2021年度- 2022年度　リサーチアシスタント　データ関連人材育成プログラム (D-DRIVE) に関わる研究補助 (SRA採択) [link]
 
 ## Teaching Experience 
 ### Part-time Lecturer
