@@ -49,6 +49,5 @@ My research interests in machine learning and its applications, especially in co
 ### Teaching Assistant / Teaching Fellow
 - Hokkaido University, “Do Robots Have Emotions?” (2019; 2020; 2021)
 - Hokkaido University, “Media Network Experiments IA & IIA” ( 2019; 2020; 2021; 2022; 2023)
-- Hokkaido University, “Media Network Practicum II” (Spring & Fall 2019; Spring & Fall 2020; Spring & Fall 2021; Spring & Fall 2022; Spring & Fall 2023)
-
-Hokkaido Consortium of National Universities, Joint General Education Course (Spring & Fall 2019; Spring & Fall 2020; Spring 2021; Spring 2022)
+- Hokkaido University, “Media Network Practicum II” (2019; 2020; 2021; 2022; 2023)
+- Hokkaido Consortium of National Universities, Joint General Education Course (2019; 2020; 2021; 2022)
