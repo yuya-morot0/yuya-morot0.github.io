@@ -51,7 +51,10 @@ _Sensors_, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) <br>
 _土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-306, 2022.<br>
 [paper]
   
-7. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama: “Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity,” IEEE Access, vol. 8, pp. 203358-203368, 2020. (2020IF 3.745)  [paper]
+1. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
+“**Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity**”<br>
+_IEEE Access_, vol. 8, pp. 203358-203368, 2020. (2020IF 3.745)<br>
+[paper]
 
 8. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama: “Few-shot Personalized Saliency Prediction Based on Adaptive Image Selection Considering Object and Visual Attention,” Sensors, 20, no. 8: 2170, 2020. (2020IF 4.066)  [paper]
 
