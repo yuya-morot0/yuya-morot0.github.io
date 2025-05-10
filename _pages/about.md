@@ -53,16 +53,29 @@ My research interests in machine learning and its applications, especially in co
 - Hokkaido Consortium of National Universities, Joint General Education Course (2019; 2020; 2021; 2022)
 
 ### Awards
-- The 2023 IEEE Sapporo Section Encouragement Award (2024年2月)
-IWAIT2024 Best Paper Award (2024年1月) (五箇ほか，IWAIT 2024, 共著者として受賞)
-- AI・データサイエンス奨励賞 Intelligence, Informatics and Infrastructure Award for Outstanding Potential Paper (2023年12月)
-IEEE ICCE-TW 2023 Best Paper Award Honorable Mention (2023年7月) (五箇ほか, IEEE ICCE-TW 2023，共著者として受賞)
-令和4年度 電気・情報関係学会北海道支部連合大会 若手優秀論文発表賞 (2022年12月) (五箇ほか, 電気・情報関係学会北海道支部連合大会, 2022，共著者として受賞)
-The 2021 IEEE Sapporo Section Student Paper Contest Best Presentation Award (2022年2月) (叶ほか, 電気・情報関係学会北海道支部連合大会, 2021，共著者として受賞)
-The 2021 IEEE Sapporo Section Encouragement Award (2022年2月)
-電子情報通信学会北海道支部 学生奨励賞 (2021年3月)
-IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (2021年3月)
-令和2年度 電気・情報関係学会北海道支部連合大会 若手優秀論文発表賞 (2020年11月)
-The 2019 IEEE Sapporo Section Student Paper Contest Encouraging Prize (2020年2月)
-2nd Prize IEEE LifeTech 2019 Excellent Paper Award (2019年3月)
-IEEE GCCE 2018 Outstanding Paper Award (2018年10月)
+1. The 2023 IEEE Sapporo Section Encouragement Award (Feb. 2024)
+1. IWAIT 2024 Best Paper Award (Jan. 2024, with Goka et al., as co-author)
+1. Intelligence, Informatics and Infrastructure Award for Outstanding Potential Paper (Dec. 2023)
+1. IEEE ICCE-TW 2023 Best Paper Award Honorable Mention (Jul. 2023, with Goka et al., as co-author)
+1. Young Researcher Excellent Paper Presentation Award, FY2022 Joint Conference of Electrical and Information Societies, Hokkaido Section (Dec. 2022, with Goka et al., as co-author)
+1. The 2021 IEEE Sapporo Section Student Paper Contest Best Presentation Award (Feb. 2022, with Ye et al., as co-author)
+1. The 2021 IEEE Sapporo Section Encouragement Award (Feb. 2022)
+1. IEICE Hokkaido Section Student Encouragement Award (Mar. 2021)
+1. IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (March 2021)
+1. Young Researcher Excellent Paper Presentation Award, FY2020 Joint Conference of Electrical and Information Societies, Hokkaido Section (Nov. 2020)
+1. The 2019 IEEE Sapporo Section Student Paper Contest Encouraging Prize (Feb. 2020)
+1. 2nd Prize, IEEE LifeTech 2019 Excellent Paper Award (Mar. 2019)
+1. IEEE GCCE 2018 Outstanding Paper Award (Oct. 2018)
+
+### Competitive Funding / Scholarships
+- Apr. 2023 – Mar. 2024
+  Sky Oura ICT Scholarship Foundation (1,000,000JPY)
+- April 2022 – Mar. 2023
+  JEES–Mitsubishi Corporation Science and Technology Student Scholarship (1,300,000JPY)
+- April 2020 – March 2022
+  Scholar, Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (¥1,920,000)
+- April 2021 – March 2024
+  JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
+(acceptance rate: about 20%, total funding 7,200,000JPY)
+- Scholarship of Japan Student Services Organization (JASSO)
+  Full repayment exemption for outstanding performance (2,112,000JPY)
