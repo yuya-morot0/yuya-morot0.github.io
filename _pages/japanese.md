@@ -3,7 +3,6 @@ permalink: /japanese
 title: "諸戸　祐哉"
 author_profile: true
 redirect_from: 
-  - /japanese.html
   - /ja/
   - /jap/
 ---
@@ -83,3 +82,7 @@ redirect_from:
 
 ### 寄稿
 -  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16,No. 7)  [link]
+
+## その他
+- 寳金総長に伝えたい！（2021年1月） [link]
+- AI Lab リサーチインターンシップ2021に参加してみて（2021年11月） [link]
