@@ -73,7 +73,7 @@ My research interests in machine learning and its applications, especially in co
 - Apr. 2022 – Mar. 2023  
   JEES–Mitsubishi Corporation Science and Technology Student Scholarship (1,300,000JPY)
 - Apr. 2020 – Mar. 2022  
-  Scholar, Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (¥1,920,000)
+  Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (1,920,000JPY)
 - Apr. 2021 – Mar. 2024  
   JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
 (acceptance rate: about 20%, total funding 7,200,000JPY)
