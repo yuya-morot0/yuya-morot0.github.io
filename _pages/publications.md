@@ -4,24 +4,45 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- 1. Masahiro Nomura\* and <u>Yuta Saito</u>\* (\*equal contribution). <br>
+**Efficient Hyperparameter Optimization under Multi-Source Covariate Shift** <br>
+_ACM International Conference on Information and Knowledge Management ([CIKM2021](https://www.cikm2021.org/))_. (Acceptance rate=21.7%) <br>
+[[paper](https://arxiv.org/abs/2006.10600)] [[code](https://github.com/nmasahiro/MSU-HPO)] -->
+
 ## Journal (Peer Reviewed)
-1. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama. <br>
+1. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama. <br>
 “**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**,” <br>
 _Applied Sciences_, 14, no. 11: 4847, 2024.  <br>
 [paper]
 
-1. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Ren Togo, Takahiro Ogawa and Miki Haseyama.<br>
-“Multimodal Transformer Model Using Time-Series Data to Classify Winter Road Surface Conditions,”<br>
+1. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Ren Togo, Takahiro Ogawa, and Miki Haseyama.<br>
+“**Multimodal Transformer Model Using Time-Series Data to Classify Winter Road Surface Conditions**”<br>
 _Sensors_, 24, no. 11: 3440, 2024. (2023IF 3.9) <br>
 [paper]
 
-2. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama: “Snow- or Ice-covered Road Detection in Winter Road Surface Conditions using Deep Neural Networks,” Computer-Aided Civil and Infrastructure Engineering (CACAIE), 2024. (2023IF:9.6) [paper]
+1. <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
+“**Snow- or Ice-covered Road Detection in Winter Road Surface Conditions using Deep Neural Networks**”<br>
+_Computer-Aided Civil and Infrastructure Engineering (CACAIE)_, 
 
-3. <u><b>Yuya Moroto</b></u>, Yingrui Ye, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama: “Zero-shot Visual Sentiment Prediction via Cross-domain Knowledge Distillation,” IEEE Open Journal of Signal Processing (IEEE OJSP), vol. 5, pp. 177-185, 2024.  [paper]
 
-4. <u><b>諸戸 祐哉</b></u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀: “時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類,” 土木学会 AI・データサイエンス論文集, vol. 4, no. 3, pp. 402-413, 2023.  [paper]
+XXXX, 2024. (2023IF:9.6)<br>
+[paper]
 
-5. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama: “Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations,” Sensors, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) [paper]
+
+
+
+1. <u><b>Yuya Moroto</b></u>, Yingrui Ye, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
+“**Zero-shot Visual Sentiment Prediction via Cross-domain Knowledge Distillation**”<br>
+_IEEE Open Journal of Signal Processing (IEEE OJSP)_, vol. 5, pp. 177-185, 2024.<br>
+[paper]
+
+1. <u><b>諸戸 祐哉</b></u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀.<br>
+“**時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類**”<br>
+_土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-413, 2023.<br>
+[paper]
+
+1. Ryota Goka, <u><b>Yuya Moroto</b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama.<br>
+“Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations,” Sensors, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) [paper]
 
 6. <u><b>諸戸 祐哉</b></u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀: “テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類,” 土木学会 AI・データサイエンス論文集, vol. 3, no. J2, pp. 293-306, 2022.  [paper]
   
@@ -33,10 +54,7 @@ _Sensors_, 24, no. 11: 3440, 2024. (2023IF 3.9) <br>
 
 ## International Conference (refereed)
 
-<!-- 1. Haruka Kiyohara, <u>Yuta Saito</u>, Tatsuya Matsuhiro, Yusuke Narita, Nobuyuki Shimizu, and Yasuo Yamamoto. <br>
-**Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model** <br>
-_International Conference on Web Search and Data Mining ([WSDM2022](https://www.wsdm-conference.org/2022/))_. (Acceptance rate=20.2%) <br>
-[paper] [code] [slides] <br> -->
+
 
 1. 〇Ryota Goka, <u><b> Yuya Moroto </b></u>, Keisuke Maeda, Takahiro Ogawa and Miki Haseyama: “What to do and where to go next? action prediction in soccer using multimodal co-attention transformer,” in Proceedings of 7th International Workshop on Multimedia Content Analysis in Sports (MMSports’24), 2024. (Accepted for publication)
 
