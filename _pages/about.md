@@ -18,8 +18,8 @@ My research interests in machine learning and its applications, especially in co
   M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
 - Apr. 2015 - Mar. 2019
   B.S., School of Engineering, Hokkaido Univ., Japan
-- Apr. 2012 - Mar. 
-  2015 Yokkaichi High School
+- Apr. 2012 - Mar. 2015
+  Yokkaichi High School
 
 ## Research Experience
 - Apr. 2024 - Present  
@@ -41,14 +41,6 @@ My research interests in machine learning and its applications, especially in co
   Research Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
   - First participant in the Keizai Doyukai Internship Program
   - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
-
-
-
-
-
-
-
-
 
 # Teaching Experience 
 Aug. 2016 - Sep. 2016 Mitsubishi Chemical Holdings Group Intern
