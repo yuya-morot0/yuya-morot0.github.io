@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuya Moroto"
+title                    : "Yuya Moroto/諸戸 祐哉"
 title_separator          : "-"
 name                     : &name "Yuya Moroto"
 description              : &description "Researcher"
@@ -23,7 +23,7 @@ repository               : "yuya-morot0.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. Yuya Moroto"
+  name             : "Dr. Yuya Moroto/諸戸 祐哉"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Hitachi, Ltd."
   location         : "Tokyo, Japan"
