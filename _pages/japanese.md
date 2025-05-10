@@ -3,7 +3,6 @@ permalink: /japanese
 title: "諸戸　祐哉"
 author_profile: true
 redirect_from: 
-  - /japanese/
   - /japanese.html
 ---
 
