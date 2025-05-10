@@ -44,7 +44,7 @@ My research interests in machine learning and its applications, especially in co
 
 ## Teaching Experience 
 ### Part-time Lecturer
-- Hokkai-Gakuen University, Faculty of Engineering, “Project Practicum” (Academic years 2021, 2022, 2023)
+- Hokkai-Gakuen University, Faculty of Engineering, “Project Practicum” (Academic years 2021; 2022; 2023)
 
 ### Teaching Assistant / Teaching Fellow
 - Hokkaido University, “Do Robots Have Emotions?” (2019; 2020; 2021)
@@ -61,7 +61,7 @@ My research interests in machine learning and its applications, especially in co
 1. The 2021 IEEE Sapporo Section Student Paper Contest Best Presentation Award (Feb. 2022, with Ye et al., as co-author)
 1. The 2021 IEEE Sapporo Section Encouragement Award (Feb. 2022)
 1. IEICE Hokkaido Section Student Encouragement Award (Mar. 2021)
-1. IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (March 2021)
+1. IEEE LifeTech 2021 Excellent Poster Award for On-site Poster Presentation (Mar. 2021)
 1. Young Researcher Excellent Paper Presentation Award, FY2020 Joint Conference of Electrical and Information Societies, Hokkaido Section (Nov. 2020)
 1. The 2019 IEEE Sapporo Section Student Paper Contest Encouraging Prize (Feb. 2020)
 1. 2nd Prize, IEEE LifeTech 2019 Excellent Paper Award (Mar. 2019)
