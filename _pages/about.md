@@ -1,9 +1,10 @@
 ---
-permalink: /
-title: "Yuya Moroto"
+permalink: /about
+title: "About"
+pagetitle: "Yuya Moroto"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /
   - /about.html
 ---
 

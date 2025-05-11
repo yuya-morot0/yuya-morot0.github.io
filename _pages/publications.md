@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+pagetitle: "Publications"
 permalink: /publications/
 author_profile: true
 ---
