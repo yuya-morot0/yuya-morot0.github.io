@@ -84,7 +84,7 @@ in _Proceedings of the IEEE International Conference on Acoustics, Speech and Si
 in _Proceedings of the International Workshop on Advanced Image Technology (IWAIT)_<br>, vol. 13164, pp. 628-633, 2024.1.<br>
 [[paper link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13164/3019688/Masked-modeling-based-action-event-prediction-considering-bidirectional-time-series/10.1117/12.3019688.short){:target="_blank"}]
 
-1. <u>〇Yuya Moroto*</u>, 〇Rintaro Yanagi*, Naoki Ogawa, 〇Kyohei Kamikawa, 〇Keigo Sakurai, Ren Togo, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama (*: equal contribution).<br>
+1. <u>〇Yuya Moroto</u>\*, 〇Rintaro Yanagi\*, Naoki Ogawa, 〇Kyohei Kamikawa, 〇Keigo Sakurai, Ren Togo, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama (\*: equal contribution).<br>
 "**Personalized Content Recommender System via Non-verbal Interaction Using Face Mesh and Facial Expression**"<br>
 in _Proceedings of the ACM Multimedia (ACM MM), Demos and Videos Track_, pp.9399-9401, 2023.10.<br>
 [[paper link](https://dl.acm.org/doi/10.1145/3581783.3612675){:target="_blank"}]
