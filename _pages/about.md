@@ -31,31 +31,31 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Computer Vision
   
 ## Research Experience
-- Apr. 2024 - Present Researcher at  Hitachi, Ltd. R&D Group
-- Nov. 2017 - Mar. 2024 Student at Haseyama-Ogawa Laboratory in Hokkaido University
+- Apr. 2024 - Present, Researcher at  Hitachi, Ltd. R&D Group
+- Nov. 2017 - Mar. 2024, Student at Haseyama-Ogawa Laboratory in Hokkaido University
   - Research topic: Machine learning methods using gaze information from images and videos
-- Apr. 2021 – Mar. 2024 JSPS DC1 Research Fellow at Japan Society for the Promotion of Science
-- Dec. 2022 - Apr. 2023 Research Intern at Hitachi, Ltd
+- Apr. 2021 – Mar. 2024, JSPS DC1 Research Fellow at Japan Society for the Promotion of Science
+- Dec. 2022 - Apr. 2023, Research Intern at Hitachi, Ltd
   - Part of the MEXT Job-Type Research Internship program
   - Research topic: AI technologies for recognizing human activities and environments from video
-- Apr. 2021 - Mar. 2023 Super Research Assistant at MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE)
-- Feb. 2023 - Mar. 2023 Research Intern at Sony Group Corporation
+- Apr. 2021 - Mar. 2023, Super Research Assistant at MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE)
+- Feb. 2023 - Mar. 2023, Research Intern at Sony Group Corporation
   - Research topic: Evaluation and learning of intervention strategies under cost constraints
-- Sep. 2021 – Jul. 2022 Research Intern at CyberAgent AI Lab
+- Sep. 2021 – Jul. 2022, Research Intern at CyberAgent AI Lab
   - Research topic: Novel digital signage advertising using pedestrian state-recognition models
-- Aug. 2016 – Sep. 2016 Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
+- Aug. 2016 – Sep. 2016, Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
   - First participant in the Keizai Doyukai Internship Program
   - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
 
 ## Education
-- Apr. 2021 - Mar. 2024 Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
+- Apr. 2021 - Mar. 2024, Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
   - Advisor: Prof. Miki Haseyama
   - [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
-- Apr. 2019 - Mar. 2021 M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
+- Apr. 2019 - Mar. 2021, M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
   - Advisor: Prof. Miki Haseyama
-- Apr. 2015 - Mar. 2019 B.S., School of Engineering, Hokkaido Univ., Japan
+- Apr. 2015 - Mar. 2019, B.S., School of Engineering, Hokkaido Univ., Japan
   - Advisor: Prof. Miki Haseyama
-- Apr. 2012 - Mar. 2015 Yokkaichi High School
+- Apr. 2012 - Mar. 2015, Yokkaichi High School
 
 ## Teaching Experience 
 ### Part-time Lecturer <!-- omit in toc -->
