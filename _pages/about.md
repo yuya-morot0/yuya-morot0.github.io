@@ -83,17 +83,12 @@ Email: yuya.moroto.sx[at]hitachi.com
 1. IEEE GCCE 2018 Outstanding Paper Award (Oct. 2018)
 
 ## Grants / Scholarships
-- Apr. 2023 – Mar. 2024  
-  Sky Oura ICT Scholarship Foundation (1,000,000JPY)
-- Apr. 2022 – Mar. 2023  
-  JEES–Mitsubishi Corporation Science and Technology Student Scholarship (1,300,000JPY)
-- Apr. 2020 – Mar. 2022  
-  Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (1,920,000JPY)
-- Apr. 2021 – Mar. 2024  
-  JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
+- Apr. 2023 – Mar. 2024, Sky Oura ICT Scholarship Foundation (1,000,000JPY)
+- Apr. 2022 – Mar. 2023, JEES–Mitsubishi Corporation Science and Technology Student Scholarship (1,300,000JPY)
+- Apr. 2020 – Mar. 2022, Nitori International Scholarship Foundation – Hokkaido Mirai IT Talent Scholarship (1,920,000JPY)
+- Apr. 2021 – Mar. 2024, JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
 (scholarship: 200,000JPY/Mon+research grants:2,200,000JPY, acceptance rate: about 20%)
-- Apr. 2019 - Mar. 2021
-  Scholarship of Japan Student Services Organization (JASSO)  
+- Apr. 2019 - Mar. 2021, Scholarship of Japan Student Services Organization (JASSO)  
   Full repayment exemption for outstanding performance (2,112,000JPY, acceptance rate: about 10%)
 
 ## Academic Services
