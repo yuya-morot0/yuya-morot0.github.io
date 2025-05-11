@@ -32,7 +32,7 @@ Email: yuya.moroto.sx[at]hitachi.com
   
 ## Research Experience
 - Apr. 2024 - Present  
-  Researcher at Hitachi, Ltd.
+  Researcher at R&D Group in Hitachi, Ltd. 
 - Nov. 2017 - Mar. 2024   
   Student at Haseyama-Ogawa Laboratory in Hokkaido University
   - Research topic: Machine learning methods using gaze information from images and videos
