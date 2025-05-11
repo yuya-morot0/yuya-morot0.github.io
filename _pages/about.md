@@ -23,6 +23,7 @@ My research interests in machine learning and its applications, especially in co
 Email: yuya.moroto.sx[at]hitachi.com
 
 ## Education
+
 - Apr. 2021 - Mar. 2024  
   Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
   [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
