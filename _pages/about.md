@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Yuya Moroto"
 author_profile: true
 redirect_from: 
   - /about/

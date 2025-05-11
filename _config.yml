@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "JP"
 site_theme               : "default"
 title                    : "Yuya Moroto"
 title_separator          : "-"
