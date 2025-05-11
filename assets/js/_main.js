@@ -39,7 +39,7 @@ $(document).ready(function () {
   // Toggle the theme manually
   var toggleTheme = function () {
     const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "light" ? "light" : "dark";
+    const new_theme = current_theme === "dark" ? "light" : "dark";
     localStorage.setItem("theme", new_theme);
     setTheme(new_theme);
   };
