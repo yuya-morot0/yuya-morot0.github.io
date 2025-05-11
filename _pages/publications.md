@@ -106,93 +106,93 @@ in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Shoot Event Prediction in Soccer Considering Expected Goals Based on Players’ Positions**"<br>
 in _Proceedings of the IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW)_, pp.449–450, 2023.7.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/document/10226874){:target="_blank"}]
 
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Prediction of Shoot Events by Considering Spatio-temporal Relations of Multimodal Features**"<br>
 in _Proceedings of the IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW)_, pp.793–794, 2023.7.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/document/10226862){:target="_blank"}]
 
 1. 〇Yingrui Ye, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**Affective Embedding Framework with Semantic Representations from Tweets for Zero-shot Visual Sentiment Prediction**"<br>
 in _Proceedings of the ACM Multimedia Asia_, pp.1–7, 2022.12.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://dl.acm.org/doi/abs/10.1145/3551626.3564950){:target="_blank"}]
 
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Shoot Event Prediction From Soccer Videos by Considering Players’ Spatio-Temporal Relations**"<br>
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.417-418, 2022.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/10014347){:target="_blank"}]
 
 1. 〇Yingrui Ye, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Visual Sentiment Prediction Using Cross-way Few-Shot Learning Based on Knowledge Distillation**"<br>
 in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_, pp. 3838-3842, 2022.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/document/9897216){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Few-shot Personalized Saliency Prediction with Similarity of gaze Tendency Using Object-based Structual Information**"
 in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_, pp. 3823-3827, 2022.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/document/9897473){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Human Emotion Recognition Using Multi-Modal Biological Signals Based on Time Lag-Considered Correlation Maximization**"
 in _Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, pp.4683-4687, 2022.5.<br>
-[[paper link](){:target="_blank"}] [presentation file]
+[[paper link](https://ieeexplore.ieee.org/document/9746128){:target="_blank"}] [[presentation file](https://sigport.org/documents/human-emotion-recognition-using-multi-modal-biological-signals-based-time-lag-considered){:target="_blank"}] 
 
 1. 〇Yingrui Ye, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Visual Sentiment Prediction Using Few-shot Learning via Distribution Relations of Visual Features**"<br>
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.217-218, 2021.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/9621950){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Few-Shot Personalized Saliency Prediction Using Person Similarity Based on Collaborative Multi-Output Gaussian Process Regression**"<br>
 in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_, pp. 1469-1473, 2021.9.<br>
-[[paper link](){:target="_blank"}]  [presentation file]
+[[paper link](https://ieeexplore.ieee.org/document/9506583){:target="_blank"}]  [[paper link](https://sigport.org/documents/few-shot-personalized-saliency-prediction-using-person-similarity-based-collaborative){:target="_blank"}] 
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Human Emotion Estimation Using Multi-Modal Variational AutoEncoder with Time Changes**"
 in _Proceedings of the IEEE Global Conference on Life Sciences and Technologies (LifeTech)_, pp.82-83, 2021.3.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/9391939){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Estimation of User-Specific Visual Attention Considering Individual Tendency Toward Gazed Objects**"<br>
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.554-555, 2020.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/9292048){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**Estimation of Person-Specific Visual Attention via Selection of Similar Persons**"<br>
 in _Proceedings of the IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW)_, pp.1-2, 2020.9.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/9258340){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Estimation of User-Specific Visual Attention Based on Gaze Information of Similar Users**"<br>
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.486-487, 2019.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/9015526){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**Estimation of Emotion Labels via Tensor-based Spatiotemporal Visual Attention Analysis**"<br>
 in _Proceedings of IEEE the International Conference on Image Processing (ICIP)_, pp.4105-4109, 2019.9.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/8803446){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**User-Specific Visual Attention Estimation Based on Visual Similarity and Spatial Information in Images**"<br>
 in _Proceedings of the IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW)_, pp.479-480, 2019.5.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/8991811){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**Estimation of Visual Attention via Canonical Correlation between Visual and Gaze-based Features**"<br>
 in _Proceedings of the IEEE Global Conference on Life Sciences and Technologies (LifeTech)_, pp.229-230, 2019.3.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/8883990){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**User-centric Visual Attention Estimation Based on Relationship Between Image and Eye Gaze Data**"<br>
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.44-45, 2018.10.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://ieeexplore.ieee.org/abstract/document/8574678){:target="_blank"}]
 
 ## Preprint
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br> 
 "**Few-Shot Personalized Saliency Prediction Using Tensor Regression for Preserving Structural Global Information**"<br>
 arXiv preprint arXiv:2307.02799, 2023.<br>
-[[paper link](){:target="_blank"}]
+[[paper link](https://arxiv.org/abs/2307.02799){:target="_blank"}]
 
 ## 国内学会 / Domesctic Conference
 1. 〇五箇 亮太, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀.<br>
