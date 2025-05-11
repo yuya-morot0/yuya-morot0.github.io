@@ -38,6 +38,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 ## Research Experience
 - Apr. 2024 - Present  
   Researcher at Hitachi, Ltd.
+- Nov. 2017 - Mar. 2024 
+  Student at Haseyama-Ogawa Laboratory in Hokkaido University (Advisor: Prof. Miki Haseyama)
 - Apr. 2021 – Mar. 2024  
   JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023  
