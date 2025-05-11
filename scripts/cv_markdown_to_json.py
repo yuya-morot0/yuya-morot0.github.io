@@ -132,6 +132,13 @@ def extract_author_info(config):
                 "url": author.get('researchgate')
             })
         
+        if author.get('dblp'):
+            profiles.append({
+                "network": "dblp",
+                "username": "",
+                "url": author.get('dblp')
+            })
+        
         # Social media profiles
         if author.get('github'):
             profiles.append({
