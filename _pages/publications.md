@@ -76,7 +76,7 @@ in _Proceedings of the IEEE International Conference on Acoustics, Speech and Si
 [[paper link](https://ieeexplore.ieee.org/document/10363382){:target="_blank"}]
 
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, Huang-Chia Shih, and Miki Haseyama,<br>
-"**Masked Modeling-based Action Event Prediction Considering Bidirectional Time-series in Soccer**"
+"**Masked Modeling-based Action Event Prediction Considering Bidirectional Time-series in Soccer**"<br>
 in _Proceedings of the International Workshop on Advanced Image Technology (IWAIT)_, vol. 13164, pp. 628-633, 2024.1.<br>
 [[paper link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13164/3019688/Masked-modeling-based-action-event-prediction-considering-bidirectional-time-series/10.1117/12.3019688.short){:target="_blank"}]
 
