@@ -11,7 +11,7 @@ author_profile: true
 - [国内学会 / Domesctic Conference (一部査読有)](#国内学会--domesctic-conference-一部査読有) -->
 
 
-## Journal (refereed)
+## International Journal (refereed)
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama, <br>
 "**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**" <br>
 _Applied Sciences_, vol. 14, no. 11: 4847, 2024.<br>
@@ -33,20 +33,10 @@ vol. 39, no. 19, pp. 2935-2950, 2024.<br>
 _IEEE Open Journal of Signal Processing (IEEE OJSP)_, vol. 5, pp. 177-185, 2024.<br>
 [[paper link](https://ieeexplore.ieee.org/document/10363382){:target="_blank"}]
 
-1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
-"**時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類**"<br>
-_土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-413, 2023.<br>
-[[paper link](https://www.jstage.jst.go.jp/article/jsceiii/4/3/4_402/_article/-char/ja){:target="_blank"}]
-
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations**"<br>
 _Sensors_, vol. 23, no. 9: 4506, 2023.<br>
 [[paper link](https://www.mdpi.com/1424-8220/23/9/4506){:target="_blank"}]
-
-1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
-"**テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類**"<br>
-_土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-306, 2022.<br>
-[[paper link](https://www.jstage.jst.go.jp/article/jsceiii/3/J2/3_293/_article/-char/ja){:target="_blank"}]
   
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity**"<br>
@@ -62,6 +52,17 @@ _Sensors_, vol. 20, no. 8: 2170, 2020.<br>
 "**Tensor-Based Emotional Category Classification via Visual Attention-Based Heterogeneous CNN Feature Fusion**"<br>
 _Sensors_, vol. 20, no. 7: 2146, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/7/2146){:target="_blank"}]
+
+## Domestic Journal  (refereed)
+1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
+"**時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類**"<br>
+_土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-413, 2023.<br>
+[[paper link](https://www.jstage.jst.go.jp/article/jsceiii/4/3/4_402/_article/-char/ja){:target="_blank"}]
+
+1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
+"**テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類**"<br>
+_土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-306, 2022.<br>
+[[paper link](https://www.jstage.jst.go.jp/article/jsceiii/3/J2/3_293/_article/-char/ja){:target="_blank"}]
 
 ## International Conference  (refereed)
 ○: Presenter
