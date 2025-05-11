@@ -39,7 +39,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Apr. 2021 – Mar. 2024  
   JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023  
-  Research Intern at Hitachi, Ltd (as part of the MEXT Job-Type Research Internship program)
+  Research Intern at Hitachi, Ltd
+  - Part of the MEXT Job-Type Research Internship program
   - Research topic: AI technologies for recognizing human activities and environments from video
 - Apr. 2021 - Mar. 2023  
   MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE), Super Research Assistant
@@ -50,7 +51,7 @@ Email: yuya.moroto.sx[at]hitachi.com
   Research Intern at CyberAgent AI Lab
   - Research topic: Novel digital signage advertising using pedestrian state-recognition models
 - Aug. 2016 – Sep. 2016  
-  Research Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
+  Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
   - First participant in the Keizai Doyukai Internship Program
   - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
 
