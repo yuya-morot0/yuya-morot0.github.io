@@ -94,7 +94,7 @@ redirect_from:
 - JSAI (人工知能学会全国大会) 2022
 
 ### 寄稿 <!-- omit in toc -->
--  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16,No. 7) [[link](https://coopj-intern.com/internship){:target="_blank"}]
+-  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16,No. 7) [[link](https://dbsj.org/newsletter-vol-16-no-7/){:target="_blank"}]
 
 ## その他
 - 寳金総長に伝えたい！（2021年1月）[[link](https://www.hokudai.ac.jp/president/co_ambitious/remote/index.html?fbclid=IwAR0cAE3UvrRsH2YXdNfKbT87rdf1SMSCnrkfajQ_Lm3dptav4pqWUlqERQ0){:target="_blank"}]
