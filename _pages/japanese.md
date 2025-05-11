@@ -22,10 +22,8 @@ redirect_from:
 ## プロフィール
 株式会社日立製作所所属の研究者。  
 機械学習とその応用、特にコンピュータビジョンと感性コンピューティングに関する研究に従事。
-マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を使用。
-
-<p><a style="text-decoration: none;" rel="noopener noreferrer" href="https://www-lmd.ist.hokudai.ac.jp/wp-content/uploads/2022/11/CV-3.pdf" target="_blank"><strong>[CV]</strong></a> in English updated on Nov 6, 2022</p>
-
+マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を使用。<br>
+[[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022
 
 ## 学歴
 - 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程<br>
