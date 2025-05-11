@@ -120,12 +120,12 @@ in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_
 [[paper link](https://ieeexplore.ieee.org/document/9897216){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
-"**Few-shot Personalized Saliency Prediction with Similarity of gaze Tendency Using Object-based Structual Information**"
+"**Few-shot Personalized Saliency Prediction with Similarity of gaze Tendency Using Object-based Structual Information**"<br>
 in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_, pp. 3823-3827, 2022.10.<br>
 [[paper link](https://ieeexplore.ieee.org/document/9897473){:target="_blank"}]
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
-"**Human Emotion Recognition Using Multi-Modal Biological Signals Based on Time Lag-Considered Correlation Maximization**"
+"**Human Emotion Recognition Using Multi-Modal Biological Signals Based on Time Lag-Considered Correlation Maximization**"<br>
 in _Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, pp.4683-4687, 2022.5.<br>
 [[paper link](https://ieeexplore.ieee.org/document/9746128){:target="_blank"}] [[presentation file](https://sigport.org/documents/human-emotion-recognition-using-multi-modal-biological-signals-based-time-lag-considered){:target="_blank"}] 
 
@@ -140,7 +140,7 @@ in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_
 [[paper link](https://ieeexplore.ieee.org/document/9506583){:target="_blank"}]  [[paper link](https://sigport.org/documents/few-shot-personalized-saliency-prediction-using-person-similarity-based-collaborative){:target="_blank"}] 
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
-"**Human Emotion Estimation Using Multi-Modal Variational AutoEncoder with Time Changes**"
+"**Human Emotion Estimation Using Multi-Modal Variational AutoEncoder with Time Changes**"<br>
 in _Proceedings of the IEEE Global Conference on Life Sciences and Technologies (LifeTech)_, pp.82-83, 2021.3.<br>
 [[paper link](https://ieeexplore.ieee.org/abstract/document/9391939){:target="_blank"}]
 
@@ -188,68 +188,71 @@ arXiv preprint arXiv:2307.02799, 2023.<br>
 ## 国内学会 / Domesctic Conference
 1. 〇五箇 亮太, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**双方向Transformerに基づいたサッカー選手のイベントデータからの行動推定に関する検討**"<br>
-映像情報メディア学会技術報告, vol. 48, no. 6, pp. 318-322, 2024.2.
+_映像情報メディア学会技術報告_, vol. 48, no. 6, pp. 318-322, 2024.2.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
 "**時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類**"<br>
-第4回　ＡＩ・データサイエンスシンポジウム, 2023.11. (土木学会 AI・データサイエンス論文集  2023の内容として発表)
+_第4回　ＡＩ・データサイエンスシンポジウム_, 2023.11.<br>
+(土木学会 AI・データサイエンス論文集  2023の内容として発表)
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Human emotion recognition while viewing images based on multi-view variational recurrent neural network**"<br>
-第26回 画像の認識・理解シンポジウム (MIRU 2023), pp. 1-5, 2023.7.
+_第26回 画像の認識・理解シンポジウム (MIRU 2023)_, pp. 1-5, 2023.7.
    
 1. Yingrui Ye, <u>〇Yuya Moroto</u>, 〇Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Zero-shot Visual Sentiment Prediction with Cross-domain Sentiments Using Knowledge Distillation**"<br>
-第26回 画像の認識・理解シンポジウム (MIRU 2023), pp. 1-5, 2023.7. (ロングオーラル採択 採択率16/194=16%)
+_第26回 画像の認識・理解シンポジウム (MIRU 2023)_, pp. 1-5, 2023.7.<br>
+(ロングオーラル採択 採択率16/194=16%)
 
 1. 〇五箇 亮太, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**サッカー映像における時空間的関係を考慮したシュート予測の高精度化に関する検討 ～競技者のチーム情報に基づく完全二部グラフの導入～**"<br>
-映像情報メディア学会技術報告, vol. 47, no. 6, pp. 227-232, 2023.2.
+_映像情報メディア学会技術報告_, vol. 47, no. 6, pp. 227-232, 2023.2.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
 "**テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類**"<br>
-第3回　ＡＩ・データサイエンスシンポジウム, 2022.11. (土木学会 AI・データサイエンス論文集 2022の内容として発表)
+_第3回　ＡＩ・データサイエンスシンポジウム_, 2022.11.<br>
+(土木学会 AI・データサイエンス論文集 2022の内容として発表)
 
 1. 〇五箇 亮太, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**サッカー競技のスカウティング映像における選手間の時空間的関係を考慮した不確実性に基づくシュートイベント予測に関する検討**"<br>
-令和4年度電気・情報関係学会北海道支部連合大会, pp. 196-197, 2022.11.
+_令和4年度電気・情報関係学会北海道支部連合大会_, pp. 196-197, 2022.11.
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Few-shot personalized saliency prediction via person similarity using tensor-based regression**"<br>
-第25回 画像の認識・理解シンポジウム (MIRU 2022), 2022.7. 
+_第25回 画像の認識・理解シンポジウム (MIRU 2022)_, 2022.7. 
 
 1. 〇叶 穎睿, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**知識蒸留を用いたFew-shot Learningに基づく画像の感情ラベル推定に関する検討**"<br>
-映像情報メディア学会技術報告, vol. 46, no. 6, pp. 171-175, 2022.2.
+_映像情報メディア学会技術報告_, vol. 46, no. 6, pp. 171-175, 2022.2.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**画像中の物体情報を考慮したユーザ類似度に基づく個人に特化した注視領域の推定に関する検討**"<br>
-映像情報メディア学会技術報告, vol. 44, no. 6, pp. 181－186, 2022.2.
+_映像情報メディア学会技術報告_, vol. 44, no. 6, pp. 181－186, 2022.2.
 
 1. 〇叶 穎睿, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**Few-shot learningを用いた感情ラベル推定における複数のデータセット利用に関する初期検討**"<br>
-令和3年度電気・情報関係学会北海道支部連合大会, pp. 123-124, 2021.11.
+_令和3年度電気・情報関係学会北海道支部連合大会_, pp. 123-124, 2021.11.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**路面画像を用いた異常検知に基づく路面状態の識別に関する検討**"<br>
-令和2年度電気・情報関係学会北海道支部連合大会, pp. 118-119, 2020.11.
+_令和2年度電気・情報関係学会北海道支部連合大会_, pp. 118-119, 2020.11.
    
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**画像注視時のヒトの感情推定のための視線特徴の推定に関する検討**"<br>
-映像情報メディア学会技術報告, vol. 44, no. 6, pp. 85-89, 2020.
+_映像情報メディア学会技術報告_, vol. 44, no. 6, pp. 85-89, 2020.
    
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**Sparse Bayesian Learningに基づく注視領域の時間変化を考慮したヒトの感情推定に関する検討**"<br>
-令和元年度電気・情報関係学会北海道支部連合大会, pp. 149-150, 2019.11.
+_令和元年度電気・情報関係学会北海道支部連合大会_, pp. 149-150, 2019.11.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**視線情報を考慮した画像のテンソル表現に基づく感情ラベル推定に関する検討 –複数ユーザの推定結果の統合に基づく高精度化–**"<br>
-第22回 画像の認識・理解シンポジウム (MIRU), pp. 1-4, 2019.7.
+_第22回 画像の認識・理解シンポジウム (MIRU)_, pp. 1-4, 2019.7.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**画像の視覚的および空間的特徴に基づくユーザに特化した注視領域推定の高精度化に関する検討 ～視覚的特徴の類似度と推定精度の関係性に関する一考察～**"<br>
-イメージ・メディア・クオリティ研究会 (IMQ), pp. 13-16, 2019.7.
+_イメージ・メディア・クオリティ研究会 (IMQ)_, pp. 13-16, 2019.7.
 
 1. <u>〇諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
 "**画像注視時の注視領域の時間変化を考慮したテンソル解析に基づく感情推定に関する検討**"<br>
-平成30年度電気・情報関係学会北海道支部連合大会, pp. 137-138, 2018.11.
+_平成30年度電気・情報関係学会北海道支部連合大会_, pp. 137-138, 2018.11.
