@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+## Table of Contents <!-- omit in toc -->
 - [Biography](#biography)
 - [Education](#education)
 - [Research Experience](#research-experience)
