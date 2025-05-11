@@ -54,8 +54,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 
 ## 学歴
 - 2021年4月-2024年3月 北海道大学大学院情報科学院 博士課程<br>
-  [[博士論文](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390){:target="_blank"}]
   - 指導教員：長谷山美紀教授
+  - [[博士論文](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390){:target="_blank"}]
 - 2019年4月-2021年3月 北海道大学大学院情報科学院 修士課程
   - 指導教員：長谷山美紀教授
 - 2015年4月-2019年3月 北海道大学 工学部
