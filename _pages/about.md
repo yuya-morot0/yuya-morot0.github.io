@@ -10,8 +10,8 @@ redirect_from:
 ## Table of Contents <!-- omit in toc -->
 - [Biography](#biography)
 - [Research Interest](#research-interest)
-- [Education](#education)
 - [Research Experience](#research-experience)
+- [Education](#education)
 - [Teaching Experience](#teaching-experience)
 - [Awards](#awards)
 - [Grants / Scholarships](#grants--scholarships)
@@ -28,18 +28,6 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Signal Processing
 - Computer Vision
   
-## Education
-- Apr. 2021 - Mar. 2024  
-  Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
-  [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
-
-- Apr. 2019 - Mar. 2021   
-  M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
-- Apr. 2015 - Mar. 2019  
-  B.S., School of Engineering, Hokkaido Univ., Japan
-- Apr. 2012 - Mar. 2015  
-  Yokkaichi High School
-
 ## Research Experience
 - Apr. 2024 - Present  
   Researcher at Hitachi, Ltd.
@@ -62,6 +50,18 @@ Email: yuya.moroto.sx[at]hitachi.com
   Research Intern at Mitsubishi Plastics, Inc. (now Mitsubishi Chemical Corporation)
   - First participant in the Keizai Doyukai Internship Program
   - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
+
+## Education
+- Apr. 2021 - Mar. 2024  
+  Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
+  [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
+
+- Apr. 2019 - Mar. 2021   
+  M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
+- Apr. 2015 - Mar. 2019  
+  B.S., School of Engineering, Hokkaido Univ., Japan
+- Apr. 2012 - Mar. 2015  
+  Yokkaichi High School
 
 ## Teaching Experience 
 ### Part-time Lecturer <!-- omit in toc -->
