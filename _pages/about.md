@@ -34,7 +34,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Apr. 2024 - Present  
   Researcher at Hitachi, Ltd.
 - Nov. 2017 - Mar. 2024 
-  Student at Haseyama-Ogawa Laboratory in Hokkaido University (Advisor: Prof. Miki Haseyama)
+  Student at Haseyama-Ogawa Laboratory in Hokkaido University
+  - Research topic: Machine learning methods using visual information from images and videos
 - Apr. 2021 – Mar. 2024  
   JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023  
@@ -56,12 +57,14 @@ Email: yuya.moroto.sx[at]hitachi.com
 ## Education
 - Apr. 2021 - Mar. 2024  
   Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
-  [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
-
+  - Advisor: Prof. Miki Haseyama
+  - [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
 - Apr. 2019 - Mar. 2021   
   M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
+  - Advisor: Prof. Miki Haseyama
 - Apr. 2015 - Mar. 2019  
   B.S., School of Engineering, Hokkaido Univ., Japan
+  - Advisor: Prof. Miki Haseyama
 - Apr. 2012 - Mar. 2015  
   Yokkaichi High School
 
