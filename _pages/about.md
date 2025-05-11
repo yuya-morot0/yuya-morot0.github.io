@@ -43,7 +43,7 @@ Email: yuya.moroto.sx[at]hitachi.com
   - Part of the MEXT Job-Type Research Internship program
   - Research topic: AI technologies for recognizing human activities and environments from video
 - Apr. 2021 - Mar. 2023  
-  Super Research Assistant atMEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE)
+  Super Research Assistant at MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE)
 - Feb. 2023 - Mar. 2023  
   Research Intern at Sony Group Corporation
   - Research topic: Evaluation and learning of intervention strategies under cost constraints
