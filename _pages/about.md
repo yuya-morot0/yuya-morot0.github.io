@@ -23,7 +23,7 @@ My research interests in machine learning and its applications, especially in co
 ## Education
 - Apr. 2021 - Mar. 2024  
   Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>
-  [PhD Thesis][[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
+  [[PhD Thesis](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390?locale=en&lang=en){:target="_blank"}]
 
 - Apr. 2019 - Mar. 2021   
   M.S., Graduate School of Information Science and Technology, Hokkaido Univ., Japan
