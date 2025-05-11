@@ -3,12 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<!-- 1. Masahiro Nomura\* and <u>Yuta Saito</u>\* (\*equal contribution). <br>
-**Efficient Hyperparameter Optimization under Multi-Source Covariate Shift** <br>
-_ACM International Conference on Information and Knowledge Management ([CIKM2021](https://www.cikm2021.org/))_. (Acceptance rate=21.7%) <br>
-[[paper](https://arxiv.org/abs/2006.10600)] [[code](https://github.com/nmasahiro/MSU-HPO)] -->
-
+## Table of Contents <!-- omit in toc -->
 - [Journal (Peer-reviewed)](#journal-peer-reviewed)
 - [International Conference  (Peer-reviewed, ○: Presenter)](#international-conference--peer-reviewed--presenter)
 - [Preprint](#preprint)
