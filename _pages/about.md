@@ -18,7 +18,9 @@ redirect_from:
 ## Biography
 I am a researcher at Hitachi, Ltd. I received my Ph.D. degree at the Hokkaido University in 2024, advised by Prof. Miki Haseyama.   
 My research interests in machine learning and its applications, especially in computer vision and affective computing. From the technical perspective, I am interested in the multimodal analysis using multimedia contents and biological signals, and then apply techniques from various fields such as deep learning, probabilistic generative model, tensor analysis etc.<br>
-[[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022
+[[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022  
+  
+Email: yuya.moroto.sx[at]hitachi.com
 
 ## Education
 - Apr. 2021 - Mar. 2024  

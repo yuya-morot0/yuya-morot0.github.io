@@ -22,7 +22,10 @@ redirect_from:
 ## プロフィール
 株式会社日立製作所で研究者をしています。2024年に長谷山美紀教授の下で北海道大学にて博士号を取得しました。
 機械学習とその応用、特にコンピュータビジョンと感性コンピューティングに興味があり、マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を用いて研究しています。<br>
-[[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022
+[[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022  
+  
+Email: yuya.moroto.sx[at]hitachi.com
+
 
 ## 学歴
 - 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程<br>
