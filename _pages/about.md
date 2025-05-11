@@ -35,7 +35,7 @@ Email: yuya.moroto.sx[at]hitachi.com
   Researcher at Hitachi, Ltd.
 - Nov. 2017 - Mar. 2024 
   Student at Haseyama-Ogawa Laboratory in Hokkaido University
-  - Research topic: Machine learning methods using visual information from images and videos
+  - Research topic: Machine learning methods using gaze information from images and videos
 - Apr. 2021 – Mar. 2024  
   JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023  
