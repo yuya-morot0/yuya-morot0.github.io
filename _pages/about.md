@@ -15,7 +15,6 @@ redirect_from:
 - [Awards](#awards)
 - [Competitive Funding / Scholarships](#competitive-funding--scholarships)
 
-
 ## Biography
 I am a researcher at Hitachi, Ltd.  
 My research interests in machine learning and its applications, especially in computer vision and affective computing. From the technical perspective, I am interested in the multimodal analysis using multimedia contents and biological signals, and then apply techniques from various fields such as deep learning, probabilistic generative model, tensor analysis etc.
