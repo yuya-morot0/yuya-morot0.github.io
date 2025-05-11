@@ -24,8 +24,12 @@ redirect_from:
 機械学習とその応用、特にコンピュータビジョンと感性コンピューティングに関する研究に従事。
 マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を使用。
 
+<p><a style="text-decoration: none;" rel="noopener noreferrer" href="https://www-lmd.ist.hokudai.ac.jp/wp-content/uploads/2022/11/CV-3.pdf" target="_blank"><strong>[CV]</strong></a> in English updated on Nov 6, 2022</p>
+
+
 ## 学歴
-- 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程
+- 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程<br>
+  [[博士論文](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/92390){:target="_blank"}]
 - 2019年4月-2021年3月 北海道大学大学院情報科学院 修士課程
 - 2015年4月-2019年3月 北海道大学 工学部
 - 2012年4月-2015年3月 三重県立四日市高等学校
