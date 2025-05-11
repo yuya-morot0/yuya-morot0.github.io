@@ -13,7 +13,7 @@ redirect_from:
 - [Research Experience](#research-experience)
 - [Teaching Experience](#teaching-experience)
 - [Awards](#awards)
-- [Competitive Funding / Scholarships](#competitive-funding--scholarships)
+- [Grants / Scholarships](#grants--scholarships)
 
 ## Biography
 I am a researcher at Hitachi, Ltd. I received my Ph.D. degree at the Hokkaido University in 2024, advised by Prof. Miki Haseyama.   
@@ -83,7 +83,7 @@ Email: yuya.moroto.sx[at]hitachi.com
 1. 2nd Prize, IEEE LifeTech 2019 Excellent Paper Award (Mar. 2019)
 1. IEEE GCCE 2018 Outstanding Paper Award (Oct. 2018)
 
-## Competitive Funding / Scholarships
+## Grants / Scholarships
 - Apr. 2023 – Mar. 2024  
   Sky Oura ICT Scholarship Foundation (1,000,000JPY)
 - Apr. 2022 – Mar. 2023  
