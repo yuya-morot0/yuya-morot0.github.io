@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Table of Contents <!-- omit in toc -->
-- [Journal (Peer-reviewed)](#journal-peer-reviewed)
-- [International Conference  (Peer-reviewed)](#international-conference--peer-reviewed)
+- [Journal (refereed)](#journal-refereed)
+- [International Conference  (refereed)](#international-conference--refereed)
 - [Preprint](#preprint)
 - [国内学会 / Domesctic Conference (一部査読有)](#国内学会--domesctic-conference-一部査読有)
 
 
-## Journal (Peer-reviewed)
+## Journal (refereed)
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama, <br>
 "**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**" <br>
 _Applied Sciences_, vol. 14, no. 11: 4847, 2024.<br>
@@ -62,7 +62,7 @@ _Sensors_, vol. 20, no. 8: 2170, 2020.<br>
 _Sensors_, vol. 20, no. 7: 2146, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/7/2146){:target="_blank"}]
 
-## International Conference  (Peer-reviewed)
+## International Conference  (refereed)
 ○: Presenter
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**What to do and where to go next? action prediction in soccer using multimodal co-attention transformer**"<br>
