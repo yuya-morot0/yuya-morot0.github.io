@@ -38,12 +38,12 @@ redirect_from:
 - 2021年9月-10月 CyberAgent AI Lab リサーチインターン  
   - 研究テーマ：通行人の状態認識モデルを用いた新しいサイネージ広告の研究開発
 - 2022年12月-2023年4月 株式会社日立製作所 リサーチインターン  
-  - 文部科学省 ジョブ型研究インターンシップとして参加 [[link](https://coopj-intern.com/internship){:target="_blank"}]
+  - [文部科学省 ジョブ型研究インターンシップ](https://coopj-intern.com/internship){:target="_blank"}として参加 
   - 研究テーマ：映像を用いた人作業や環境を認識する人工知能技術の研究
 - 2023年2月-2023年3月 ソニーグループ株式会社 リサーチインターン  
   - 研究テーマ：コスト制約下での介入方策の評価や学習
 - 2021年4月- 2023年3月　リサーチアシスタント
-  - データ関連人材育成プログラム (D-DRIVE) に関わる研究補助 (SRA採択) [[link](https://www.mext.go.jp/a_menu/jinzai/data/index.htm){:target="_blank"}]
+  - [データ関連人材育成プログラム (D-DRIVE)](https://www.mext.go.jp/a_menu/jinzai/data/index.htm){:target="_blank"}に関わる研究補助 (SRA採択) 
 
 ## 教育経験
 ### 非常勤講師 <!-- omit in toc -->
@@ -94,8 +94,9 @@ redirect_from:
 - JSAI (人工知能学会全国大会) 2022
 
 ### 寄稿 <!-- omit in toc -->
--  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16,No. 7) [[link](https://dbsj.org/newsletter-vol-16-no-7/){:target="_blank"}]
+-  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16,No. 7) <br>[[link](https://dbsj.org/newsletter-vol-16-no-7/){:target="_blank"}]
 
 ## その他
 - 寳金総長に伝えたい！（2021年1月）[[link](https://www.hokudai.ac.jp/president/co_ambitious/remote/index.html?fbclid=IwAR0cAE3UvrRsH2YXdNfKbT87rdf1SMSCnrkfajQ_Lm3dptav4pqWUlqERQ0){:target="_blank"}]
-- AI Lab リサーチインターンシップ2021に参加してみて（2021年11月）[[link](https://cyberagent.ai/blog/research/15725/){:target="_blank"}]
+- AI Lab リサーチインターンシップ2021に参加してみて（2021年11月）<br>
+[[link](https://cyberagent.ai/blog/research/15725/){:target="_blank"}]
