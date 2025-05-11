@@ -37,13 +37,13 @@ Email: yuya.moroto.sx[at]hitachi.com
   Student at Haseyama-Ogawa Laboratory in Hokkaido University
   - Research topic: Machine learning methods using gaze information from images and videos
 - Apr. 2021 – Mar. 2024  
-  JSPS DC1 Research Fellow, Japan Society for the Promotion of Science
+  JSPS DC1 Research Fellow at Japan Society for the Promotion of Science
 - Dec. 2022 - Apr. 2023  
   Research Intern at Hitachi, Ltd
   - Part of the MEXT Job-Type Research Internship program
   - Research topic: AI technologies for recognizing human activities and environments from video
 - Apr. 2021 - Mar. 2023  
-  MEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE), Super Research Assistant
+  Super Research Assistant atMEXT Doctoral program for Data-Related InnoVation Expert (D-DRIVE)
 - Feb. 2023 - Mar. 2023  
   Research Intern at Sony Group Corporation
   - Research topic: Evaluation and learning of intervention strategies under cost constraints
