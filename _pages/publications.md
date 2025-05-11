@@ -23,19 +23,14 @@ _Applied Sciences_, 14, no. 11: 4847, 2024.<br>
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Ren Togo, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Multimodal Transformer Model Using Time-Series Data to Classify Winter Road Surface Conditions**"<br>
-_Sensors_, 24, no. 11: 3440, 2024. (2023IF 3.9) <br>
+_Sensors_, 24, no. 11: 3440, 2024.<br>
 [[paper link](https://www.mdpi.com/1424-8220/24/11/3440){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Snow- or Ice-covered Road Detection in Winter Road Surface Conditions using Deep Neural Networks**"<br>
 _Computer-Aided Civil and Infrastructure Engineering (CACAIE)_, 
-
-
-XXXX, 2024. (2023IF:9.6)<br>
+vol. 39, no. 19, pp. 2935-2950, 2024.<br>
 [[paper link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.13233){:target="_blank"}]
-
-
-
 
 1. <u>Yuya Moroto</u>, Yingrui Ye, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Zero-shot Visual Sentiment Prediction via Cross-domain Knowledge Distillation**"<br>
