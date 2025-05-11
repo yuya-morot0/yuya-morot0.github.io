@@ -1,6 +1,7 @@
 ---
 permalink: /japanese
 title: "諸戸　祐哉"
+pagetitle: "AAA"
 author_profile: true
 redirect_from: 
   - /ja/
