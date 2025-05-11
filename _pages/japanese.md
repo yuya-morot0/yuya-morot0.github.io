@@ -104,6 +104,7 @@ Email: yuya.moroto.sx[at]hitachi.com
 ## 学会活動
 ### 査読 <!-- omit in toc -->
 - JSAI (人工知能学会全国大会) 2022
+- LAU Summer 2024
 
 ### 寄稿 <!-- omit in toc -->
 -  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16, No. 7) <br>[[link](https://dbsj.org/newsletter-vol-16-no-7/){:target="_blank"}]

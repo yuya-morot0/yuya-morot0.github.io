@@ -102,3 +102,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Apr. 2019 - Mar. 2021
   Scholarship of Japan Student Services Organization (JASSO)  
   Full repayment exemption for outstanding performance (2,112,000JPY)
+
+## Academic Service
+### Reviewer
+- JSAI 2022
+- LAU Summer 2024
