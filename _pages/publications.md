@@ -9,6 +9,12 @@ author_profile: true
 _ACM International Conference on Information and Knowledge Management ([CIKM2021](https://www.cikm2021.org/))_. (Acceptance rate=21.7%) <br>
 [[paper](https://arxiv.org/abs/2006.10600)] [[code](https://github.com/nmasahiro/MSU-HPO)] -->
 
+- [Journal (Peer-reviewed)](#journal-peer-reviewed)
+- [International Conference  (Peer-reviewed, ○: Presenter)](#international-conference--peer-reviewed--presenter)
+- [Preprint](#preprint)
+- [国内学会 / Domesctic Conference](#国内学会--domesctic-conference)
+
+
 ## Journal (Peer-reviewed)
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama. <br>
 "**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**" <br>

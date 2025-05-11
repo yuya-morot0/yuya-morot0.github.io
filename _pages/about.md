@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+- [Biography](#biography)
+- [Education](#education)
+- [Research Experience](#research-experience)
+- [Teaching Experience](#teaching-experience)
+- [Awards](#awards)
+- [Competitive Funding / Scholarships](#competitive-funding--scholarships)
+
+
 ## Biography
 I am a researcher at Hitachi, Ltd.  
 My research interests in machine learning and its applications, especially in computer vision and affective computing. From the technical perspective, I am interested in the multimodal analysis using multimedia contents and biological signals, and then apply techniques from various fields such as deep learning, probabilistic generative model, tensor analysis etc.
@@ -43,10 +51,10 @@ My research interests in machine learning and its applications, especially in co
   - Research topic: Evaluation of mixing processes under flow conditions and equipment optimization using experiments and CAE analysis
 
 ## Teaching Experience 
-### Part-time Lecturer
+### Part-time Lecturer <!-- omit in toc -->
 - Hokkai-Gakuen University, Faculty of Engineering, “Project Practicum” (Academic years 2021; 2022; 2023)
 
-### Teaching Assistant / Teaching Fellow
+### Teaching Assistant / Teaching Fellow <!-- omit in toc -->
 - Hokkaido University, “Do Robots Have Emotions?” (2019; 2020; 2021)
 - Hokkaido University, “Media Network Experiments IA & IIA” ( 2019; 2020; 2021; 2022; 2023)
 - Hokkaido University, “Media Network Practicum II” (2019; 2020; 2021; 2022; 2023)
