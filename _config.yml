@@ -41,6 +41,7 @@ author:
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Yuya-Moroto"
   scopus           : # URL
+  dblp             : https://dblp.org/pid/232/2947.html
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

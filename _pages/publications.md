@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- ## Table of Contents -->
- <!-- omit in toc -->
+<!-- omit in toc -->
 <!-- - [Journal (refereed)](#journal-refereed)
 - [International Conference  (refereed)](#international-conference--refereed)
 - [Preprint](#preprint)
