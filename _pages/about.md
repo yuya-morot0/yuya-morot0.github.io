@@ -89,7 +89,7 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Apr. 2021 – Mar. 2024, JSPS DC1 Research Fellowship, Japan Society for the Promotion of Science
 (scholarship: 200,000JPY/Mon+research grants:2,200,000JPY, acceptance rate: about 20%)
 - Apr. 2019 - Mar. 2021, Scholarship of Japan Student Services Organization (JASSO)  
-  Full repayment exemption for outstanding performance (2,112,000JPY, acceptance rate: about 10%)
+  - Full repayment exemption for outstanding performance (2,112,000JPY, acceptance rate: about 10%)
 
 ## Academic Services
 ### Reviewer
