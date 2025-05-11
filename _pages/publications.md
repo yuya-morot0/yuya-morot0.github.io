@@ -5,9 +5,9 @@ author_profile: true
 ---
 ## Table of Contents <!-- omit in toc -->
 - [Journal (Peer-reviewed)](#journal-peer-reviewed)
-- [International Conference  (Peer-reviewed, ○: Presenter)](#international-conference--peer-reviewed--presenter)
+- [International Conference  (Peer-reviewed)](#international-conference--peer-reviewed)
 - [Preprint](#preprint)
-- [国内学会 / Domesctic Conference](#国内学会--domesctic-conference)
+- [国内学会 / Domesctic Conference (一部査読有)](#国内学会--domesctic-conference-一部査読有)
 
 
 ## Journal (Peer-reviewed)
@@ -62,7 +62,8 @@ _Sensors_, vol. 20, no. 8: 2170, 2020.<br>
 _Sensors_, vol. 20, no. 7: 2146, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/7/2146){:target="_blank"}]
 
-## International Conference  (Peer-reviewed, ○: Presenter)
+## International Conference  (Peer-reviewed)
+○: Presenter
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**What to do and where to go next? action prediction in soccer using multimodal co-attention transformer**"<br>
 in _Proceedings of ACM Workshop on Multimedia Content Analysis in Sports (MMSports’24) at ACM Multimedia_, pp. 75-79, 2024.<br>
@@ -180,7 +181,9 @@ in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, p
 arXiv preprint arXiv:2307.02799, 2023.<br>
 [[paper link](https://arxiv.org/abs/2307.02799){:target="_blank"}]
 
-## 国内学会 / Domesctic Conference
+## 国内学会 / Domesctic Conference (一部査読有)
+○: Presenter
+
 1. <u>諸戸 祐哉</u>, 伊藤 良起, 佐々木 辰也, 秋山 高行,<br>
 "**Object Keypoint Similarityを応⽤した⾼解像度画像における⼈物⾻格の⼆重検知除去**" <br>
 _第31回 画像センシングシンポジウム_, 2025.5 <br>
