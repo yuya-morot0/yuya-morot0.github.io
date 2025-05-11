@@ -18,12 +18,12 @@ _ACM International Conference on Information and Knowledge Management ([CIKM2021
 ## Journal (Peer-reviewed)
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama. <br>
 "**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**" <br>
-_Applied Sciences_, 14, no. 11: 4847, 2024.<br>
+_Applied Sciences_, vol. 14, no. 11: 4847, 2024.<br>
 [[paper link](https://www.mdpi.com/2076-3417/14/11/4847){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Ren Togo, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Multimodal Transformer Model Using Time-Series Data to Classify Winter Road Surface Conditions**"<br>
-_Sensors_, 24, no. 11: 3440, 2024.<br>
+_Sensors_, vol. 24, no. 11: 3440, 2024.<br>
 [[paper link](https://www.mdpi.com/1424-8220/24/11/3440){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
@@ -44,7 +44,7 @@ _土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-41
 
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Prediction of Shooting Events in Soccer Videos Using Complete Bipartite Graphs and Players’ Spatial-temporal Relations**"<br>
-_Sensors_, vol. 23, no. 9: 4506, 2023. (2021 IF=3.847) <br>
+_Sensors_, vol. 23, no. 9: 4506, 2023.<br>
 [[paper link](https://www.mdpi.com/1424-8220/23/9/4506){:target="_blank"}]
 
 1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀.<br>
@@ -54,39 +54,35 @@ _土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-3
   
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity**"<br>
-_IEEE Access_, vol. 8, pp. 203358-203368, 2020. (2020IF 3.745)<br>
+_IEEE Access_, vol. 8, pp. 203358-203368, 2020.<br>
 [[paper link](https://ieeexplore.ieee.org/document/9252930){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Few-shot Personalized Saliency Prediction Based on Adaptive Image Selection Considering Object and Visual Attention**"<br>
-_Sensors_, 20, no. 8: 2170, 2020. (2020IF 4.066)<br>
+_Sensors_, vol. 20, no. 8: 2170, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/8/2170){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Tensor-Based Emotional Category Classification via Visual Attention-Based Heterogeneous CNN Feature Fusion**"<br>
-_Sensors_, 20, no. 7: 2146, 2020. (2020IF 4.066)<br>
+_Sensors_, vol. 20, no. 7: 2146, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/7/2146){:target="_blank"}]
 
 ## International Conference  (Peer-reviewed, ○: Presenter)
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**What to do and where to go next? action prediction in soccer using multimodal co-attention transformer**"<br>
-in _Proceedings of ACM Workshop on Multimedia Content Analysis in Sports (MMSports’24) at ACM Multimedia_, 2024.<br>
-[[paper link](){:target="_blank"}]
-
-
+in _Proceedings of ACM Workshop on Multimedia Content Analysis in Sports (MMSports’24) at ACM Multimedia_, pp. 75-79, 2024.<br>
+[[paper link](https://dl.acm.org/doi/abs/10.1145/3689061.3689076){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Yingrui Ye, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama.<br>
 "**Zero-shot Visual Sentiment Prediction via Cross-domain Knowledge Distillation**"<br>
 in _Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2024. <br>
 (as presentation of our accepted paper in IEEE OJSP 2024)<br>
-[[paper link](){:target="_blank"}]
-
-
+[[paper link](https://ieeexplore.ieee.org/document/10363382){:target="_blank"}]
 
 1. 〇Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, Huang-Chia Shih, and Miki Haseyama.<br>
 "**Masked Modeling-based Action Event Prediction Considering Bidirectional Time-series in Soccer**"
-in _Proceedings of the International Workshop on Advanced Image Technology (IWAIT)_<br>, pp.13164, 2024.1.<br>
-[[paper link](){:target="_blank"}]
+in _Proceedings of the International Workshop on Advanced Image Technology (IWAIT)_<br>, vol. 13164, pp. 628-633, 2024.1.<br>
+[[paper link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13164/3019688/Masked-modeling-based-action-event-prediction-considering-bidirectional-time-series/10.1117/12.3019688.short){:target="_blank"}]
 
 1. <u>〇Yuya Moroto*</u>, 〇Rintaro Yanagi*, Naoki Ogawa, 〇Kyohei Kamikawa, 〇Keigo Sakurai, Ren Togo, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama (*: equal contribution).<br>
 "**Personalized Content Recommender System via Non-verbal Interaction Using Face Mesh and Facial Expression**"<br>
