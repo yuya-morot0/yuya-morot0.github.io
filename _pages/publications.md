@@ -133,7 +133,7 @@ in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, p
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Few-Shot Personalized Saliency Prediction Using Person Similarity Based on Collaborative Multi-Output Gaussian Process Regression**"<br>
 in _Proceedings of the IEEE International Conference on Image Processing (ICIP)_, pp. 1469-1473, 2021.9.<br>
-[[paper link](https://ieeexplore.ieee.org/document/9506583){:target="_blank"}]  [[paper link](https://sigport.org/documents/few-shot-personalized-saliency-prediction-using-person-similarity-based-collaborative){:target="_blank"}] 
+[[paper link](https://ieeexplore.ieee.org/document/9506583){:target="_blank"}]  [[presentation file](https://sigport.org/documents/few-shot-personalized-saliency-prediction-using-person-similarity-based-collaborative){:target="_blank"}] 
 
 1. <u>〇Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Human Emotion Estimation Using Multi-Modal Variational AutoEncoder with Time Changes**"<br>
