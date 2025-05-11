@@ -9,6 +9,7 @@ redirect_from:
 
 ## Table of Contents <!-- omit in toc -->
 - [Biography](#biography)
+- [Research Interest](#research-interest)
 - [Education](#education)
 - [Research Experience](#research-experience)
 - [Teaching Experience](#teaching-experience)
@@ -21,7 +22,12 @@ My research interests in machine learning and its applications, especially in co
 [[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022  
   
 Email: yuya.moroto.sx[at]hitachi.com
-
+## Research Interest
+- Machine Learning 
+- Multimodal Analysis
+- Signal Processing
+- Computer Vision
+  
 ## Education
 - Apr. 2021 - Mar. 2024  
   Ph.D., Graduate School of Information Science and Technology, Hokkaido Univ., Japan<br>

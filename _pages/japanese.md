@@ -9,6 +9,7 @@ redirect_from:
 
 ## 目次 <!-- omit in toc -->
 - [プロフィール](#プロフィール)
+- [研究分野](#研究分野)
 - [学歴](#学歴)
 - [経歴](#経歴)
 - [教育経験](#教育経験)
@@ -26,6 +27,11 @@ redirect_from:
   
 Email: yuya.moroto.sx[at]hitachi.com
 
+## 研究分野
+- Machine Learning 
+- Multimodal Analysis
+- Signal Processing
+- Computer Vision
 
 ## 学歴
 - 2021年4月-2024年3月 北海道大学大学院情報科学院 博士後期課程<br>
