@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-## Table of Contents <!-- omit in toc -->
-- [Biography](#biography)
+<!-- ## Table of Contents --> 
+<!-- omit in toc -->
+<!-- - [Biography](#biography)
 - [Research Interest](#research-interest)
 - [Research Experience](#research-experience)
 - [Education](#education)
 - [Teaching Experience](#teaching-experience)
 - [Awards](#awards)
-- [Grants / Scholarships](#grants--scholarships)
+- [Grants / Scholarships](#grants--scholarships) -->
 
 ## Biography
 I am a researcher at Hitachi, Ltd. I received my Ph.D. degree at the Hokkaido University in 2024, advised by Prof. Miki Haseyama.   

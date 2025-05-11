@@ -3,11 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Table of Contents <!-- omit in toc -->
-- [Journal (refereed)](#journal-refereed)
+<!-- ## Table of Contents -->
+ <!-- omit in toc -->
+<!-- - [Journal (refereed)](#journal-refereed)
 - [International Conference  (refereed)](#international-conference--refereed)
 - [Preprint](#preprint)
-- [国内学会 / Domesctic Conference (一部査読有)](#国内学会--domesctic-conference-一部査読有)
+- [国内学会 / Domesctic Conference (一部査読有)](#国内学会--domesctic-conference-一部査読有) -->
 
 
 ## Journal (refereed)
