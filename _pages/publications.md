@@ -54,6 +54,14 @@ _Sensors_, vol. 20, no. 8: 2170, 2020.<br>
 _Sensors_, vol. 20, no. 7: 2146, 2020.<br>
 [[paper link](https://www.mdpi.com/1424-8220/20/7/2146){:target="_blank"}]
 
+<!-- 
+
+
+
+
+
+ -->
+
 ## Domestic Journal  (refereed)
 1. <u>諸戸 祐哉</u>, 前田 圭介, 藤後 廉, 小川 貴弘, 長谷山 美紀,<br>
 "**時系列データを用いたMulti-modal Transformerに基づく冬期路面状態の分類**"<br>
@@ -64,6 +72,14 @@ _土木学会 AI・データサイエンス論文集_, vol. 4, no. 3, pp. 402-41
 "**テキストおよび画像情報に基づくFocal Lossを導入した深層学習による冬期路面状態の分類**"<br>
 _土木学会 AI・データサイエンス論文集_, vol. 3, no. J2, pp. 293-306, 2022.<br>
 [[paper link](https://www.jstage.jst.go.jp/article/jsceiii/3/J2/3_293/_article/-char/ja){:target="_blank"}]
+
+<!-- 
+
+
+
+
+
+ -->
 
 ## International Conference  (refereed)
 ○: Presenter
@@ -178,18 +194,34 @@ in _Proceedings of the IEEE Global Conference on Life Sciences and Technologies 
 in _Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE)_, pp.44-45, 2018.10.<br>
 [[paper link](https://ieeexplore.ieee.org/abstract/document/8574678){:target="_blank"}]
 
+<!-- 
+
+
+
+
+
+ -->
+
 ## Preprint
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br> 
 "**Few-Shot Personalized Saliency Prediction Using Tensor Regression for Preserving Structural Global Information**"<br>
 arXiv preprint arXiv:2307.02799, 2023.<br>
 [[paper link](https://arxiv.org/abs/2307.02799){:target="_blank"}]
 
+<!-- 
+
+
+
+
+
+ -->
+
 ## 国内学会 / Domesctic Conference (一部査読有)
 ○: Presenter
 
-1. <u>諸戸 祐哉</u>, 伊藤 良起, 佐々木 辰也, 秋山 高行,<br>
+1. <u>諸戸 祐哉</u>, 〇伊藤 良起, 佐々木 辰也, 秋山 高行,<br>
 "**Object Keypoint Similarityを応⽤した⾼解像度画像における⼈物⾻格の⼆重検知除去**" <br>
-_第31回 画像センシングシンポジウム_, 2025.5 <br>
+_第31回 画像センシングシンポジウム_, pp.1-8, 2025.5 <br>
 (スポットライト発表採択)
 
 1. 〇五箇 亮太, <u>諸戸 祐哉</u>, 前田 圭介, 小川 貴弘, 長谷山 美紀,<br>
