@@ -26,12 +26,12 @@ _Sensors_, vol. 24, no. 11: 3440, 2024.<br>
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Snow- or Ice-covered Road Detection in Winter Road Surface Conditions using Deep Neural Networks**"<br>
 _Computer-Aided Civil and Infrastructure Engineering (CACAIE)_, 
-vol. 39, no. 19, pp. 2935-2950, 2024.<br>
+vol. 39, no. 19, pp.2935-2950, 2024.<br>
 [[paper link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.13233){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Yingrui Ye, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Zero-shot Visual Sentiment Prediction via Cross-domain Knowledge Distillation**"<br>
-_IEEE Open Journal of Signal Processing (IEEE OJSP)_, vol. 5, pp. 177-185, 2024.<br>
+_IEEE Open Journal of Signal Processing (IEEE OJSP)_, vol. 5, pp.177-185, 2024.<br>
 [[paper link](https://ieeexplore.ieee.org/document/10363382){:target="_blank"}]
 
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
@@ -41,7 +41,7 @@ _Sensors_, vol. 23, no. 9: 4506, 2023.<br>
   
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Human-Centric Emotion Estimation Based on Correlation Maximization Considering Changes with Time in Visual Attention and Brain Activity**"<br>
-_IEEE Access_, vol. 8, pp. 203358-203368, 2020.<br>
+_IEEE Access_, vol. 8, pp.203358-203368, 2020.<br>
 [[paper link](https://ieeexplore.ieee.org/document/9252930){:target="_blank"}]
 
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
