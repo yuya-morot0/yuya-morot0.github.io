@@ -15,8 +15,8 @@ author_profile: true
 ## International Journal (refereed)
 1. <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama,<br>
 "**Few-shot Personalized Saliency Prediction Based on Interpersonal Gaze Patterns**"<br>
-_ITE Trans. Media Technology and Applications (MTA)_, 2025. (Accepted for publication)<br>
-[[arXiv](https://arxiv.org/abs/2307.02799){:target="_blank"}]
+_ITE Trans. Media Technology and Applications (MTA)_, vol. 13, no. 4, pp. 382-392, 2025. <br>
+[[arXiv](https://arxiv.org/abs/2307.02799){:target="_blank"}] [[paper link](https://doi.org/10.3169/mta.13.382){:target="_blank"}]
 
 1. Ryota Goka, <u>Yuya Moroto</u>, Keisuke Maeda, Takahiro Ogawa, and Miki Haseyama, <br>
 "**Multimodal Shot Prediction Based on Spatial-temporal Interaction between Players in Soccer Videos**" <br>
