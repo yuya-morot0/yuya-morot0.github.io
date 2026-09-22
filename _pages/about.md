@@ -69,7 +69,7 @@ Email: yuya.moroto.sx[at]hitachi.com
 - Hokkaido Consortium of National Universities, Joint General Education Course (2019; 2020; 2021; 2022)
 
 ## Awards and Honors
-1. Kaggle Silver Medal (100 th place out of 6807 teams) The Pokémon Company - PTCG AI Battle Challenge Simulation (Sep. 2026) [[link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle){:target="_blank"}]
+1. Kaggle Silver Medal (100th place out of 6807 teams) The Pokémon Company - PTCG AI Battle Challenge Simulation (Sep. 2026) [[link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle){:target="_blank"}]
 1. The 2023 IEEE Sapporo Section Encouragement Award (Feb. 2024)
 1. IWAIT 2024 Best Paper Award (Jan. 2024, with Goka et al., as co-author)
 1. Intelligence, Informatics and Infrastructure Award for Outstanding Potential Paper (Dec. 2023)
