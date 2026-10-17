@@ -74,7 +74,8 @@ Email: yuya.moroto.sx[at]hitachi.com
 - 北海道地区国立大学教養教育連携授業 (2019前期・後期, 2020前期・後期, 2021前期, 2022前期)
 
 ## 受賞等
-1. Kaggle Silver Medal (100th place out of 6807 teams) The Pokémon Company - PTCG AI Battle Challenge Simulation (Sep. 2026) [[link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle){:target="_blank"}]
+1. Kaggle Bronze Medal (595th place out of 10148 teams) Kaggriculture (2026年10月) [[link](https://www.kaggle.com/competitions/kaggriculture/){:target="_blank"}]
+1. Kaggle Silver Medal (100th place out of 6807 teams) The Pokémon Company - PTCG AI Battle Challenge Simulation (2026年9月) [[link](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle){:target="_blank"}]
 1. The 2023 IEEE Sapporo Section Encouragement Award (2024年2月)
 1. IWAIT2024 Best Paper Award (2024年1月)   
   五箇ほか，共著者として受賞
