@@ -22,7 +22,7 @@ redirect_from:
 - [その他](#その他) -->
 
 ## プロフィール
-株式会社日立製作所で研究者をしています。2024年に長谷山美紀教授の下で北海道大学にて博士号（情報科学）を取得しました。  
+株式会社日立製作所の研究者。Kaggle Expert。2024年に長谷山美紀教授の下で北海道大学にて博士号（情報科学）を取得しました。  
 機械学習とその応用、特にコンピュータビジョンと感性コンピューティングに興味があり、マルチメディアコンテンツや生体信号を用いたマルチモーダル解析を対象とし、深層学習、確率的生成モデル、テンソル解析など多様な手法を用いて研究しています。<br><br>
 学士 (工学)、修士（情報科学）、博士（情報科学）<br>
 [[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022  
@@ -115,6 +115,7 @@ Email: yuya.moroto.sx[at]hitachi.com
 ### 査読 <!-- omit in toc -->
 - JSAI (人工知能学会全国大会) 2022
 - LAU Summer 2024
+- ICASSP 2027
 
 ### 寄稿 <!-- omit in toc -->
 -  ACM Multimedia 2023 参加報告，日本データベース学会(DBSJ) Newsletter 2023年12月号 (Vol. 16, No. 7) <br>[[link](https://dbsj.org/newsletter-vol-16-no-7/){:target="_blank"}]

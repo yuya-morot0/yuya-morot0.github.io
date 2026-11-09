@@ -19,7 +19,7 @@ redirect_from:
 - [Grants / Scholarships](#grants--scholarships) -->
 
 ## Biography
-I am a researcher at Hitachi, Ltd. I received my Ph.D. degree at the Hokkaido University in 2024, advised by Prof. Miki Haseyama.   
+I am a researcher at Hitachi, Ltd. Kaggle Expert. I received my Ph.D. degree at the Hokkaido University in 2024, advised by Prof. Miki Haseyama.   
 My research interests lie in machine learning and its applications, especially in computer vision and affective computing. From the technical perspective, I am interested in the multimodal analysis using multimedia contents and biological signals, and then apply techniques from various fields such as deep learning, probabilistic generative model, tensor analysis etc.<br><br>
 B.S. (Engineering), M.S. (Information Science), Ph.D. (Information Science)<br>
 [[CV](https://yuya-morot0.github.io/images/CV.pdf){:target="_blank"}] in English updated on Nov 6, 2022  
@@ -98,3 +98,4 @@ Email: yuya.moroto.sx[at]hitachi.com
 ### Reviewer
 - JSAI 2022
 - LAU Summer 2024
+- ICASSP 2027
